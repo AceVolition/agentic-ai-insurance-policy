@@ -1,4 +1,4 @@
-# Agentic AI Insurance Policy Analyzer
+# Agentic AI Insurance Policy
 
 Full-stack MVP based exclusively on the supplied PRD and System Design docs.
 
